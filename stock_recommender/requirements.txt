@@ -1,0 +1,12 @@
+yfinance
+pandas
+numpy
+scikit-learn
+requests
+python-dotenv
+notion-client
+openai
+langchain
+transformers
+pytest
+pytest
